@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": true,
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.11.0-dev.20",
+    "libraryName": "spfx-search-query-modifier-demo",
+    "libraryId": "fa606d6e-9d6d-4d62-b9a8-76231179a20e",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "SearchQueryModifier"
+  }
+}
