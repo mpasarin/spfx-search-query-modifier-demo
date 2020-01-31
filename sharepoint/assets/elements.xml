@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="SearchQueryModifierDemo"
+        Location="ClientSideExtension.SearchQueryModifier"
+        ClientSideComponentId="8381526e-89be-4934-81af-10429d078e34"
+        ClientSideComponentProperties="{}">
+    </CustomAction>
+</Elements>
